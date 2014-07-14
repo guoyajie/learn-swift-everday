@@ -1,0 +1,6 @@
+for elementa in 1...9{
+    for elementb in 1...9{
+        print("\(elementa)*\(elementb)=\(elementa*elementb)\t")
+    }
+    print("\n")
+}
